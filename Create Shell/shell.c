@@ -133,7 +133,7 @@ void execArgsPiped(char** parsed, char** parsedpipe)
 void openHelp()
 {
     puts("\n***WELCOME TO MY SHELL HELP***"
-        "\nCopyright @ Suprotik Dey"
+        "\nCopyright @ Sankalp Mittal"
         "\n-Use the shell at your own risk..."
         "\nList of Commands supported:"
         "\n>cd"
